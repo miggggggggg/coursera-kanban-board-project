@@ -1,0 +1,15 @@
+Using default tag: latest
+The push refers to repository [us.icr.io/sn-labs-ntgmiguel543/zntwk-tax-calculator]
+172cfd6d03a3: Preparing 
+d9990bb67564: Preparing 
+13aa9b33a954: Preparing 
+54ddac61fb7b: Preparing 
+dd66c05a720e: Preparing 
+9d09dfdcffeb: Preparing 
+5ca2f881e5bf: Preparing 
+db010d6b6a3c: Preparing 
+3fd3ceafa064: Pushed 
+4ef7ac306afb: Pushed 
+a4b536aa4bf8: Pushed 
+60e70dddd9ea: Pushed 
+latest: digest: sha256:0cb164e7f8f535a88aea2e35e8d9f1be147a88d665ecd52b4245ee245e3821e7 size: 2816
